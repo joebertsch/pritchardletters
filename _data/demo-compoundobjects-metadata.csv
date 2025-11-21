@@ -1,14 +1,15 @@
 objectid,parentid,filename,title,creator,date,description,subject,type,format,,language
 object_001,,,1945-6-12,,,,,,multiple,,
-object_002,object_001,1945-6-12 (1).jpg,,,,,,,image/jpeg,,eng
-object_003,object_001,1945-6-12 (2).jpg,,,,,,,image/jpeg,,eng
-object_004,object_001,1945-6-12 (3).jpg,,,,,,,image/jpeg,,
-object_005,,,1945-6-13,,,,,,multiple,,
-object_006,object_005,1945-6-13 (1).jpg,,,,,,,image/jpeg,,eng
-object_007,object_005,1945-6-13 (2).jpg,,,,,,,image/jpeg,,eng
-object_008,object_005,1945-6-13 (3).jpg,,,,,,,image/jpeg,,eng
-object_009,object_005,1945-6-13 (4).jpg,,,,,,,image/jpeg,,eng
-object_010,object_005,1945-6-13 (5).jpg,,,,,,,image/jpeg,,eng
+object_002,object_001,1945-6-12 (1).jpg,1945-6-12 (1),,,,,,image/jpeg,,eng
+object_003,object_001,1945-6-12 (2).jpg,1945-6-12 (2),,,,,,image/jpeg,,eng
+object_004,object_001,1945-6-12 (3).jpg,1945-6-12 (3),,,,,,image/jpeg,,
+object_005,,,1945-6-6,,,,,,multiple,,
+object_006,object_005,1945-6-6 (1).jpg,,,,,,,image/jpeg,,eng
+object_007,object_005,1945-6-6 (2).jpg,,,,,,,image/jpeg,,eng
+,,,1945-6-13,,,,,,,,
+object_008,object_005,1945-6-13 (1).jpg,,,,,,,image/jpeg,,eng
+object_009,object_005,1945-6-13 (2).jpg,,,,,,,image/jpeg,,eng
+object_010,object_005,1945-6-13 (3).jpg,,,,,,,image/jpeg,,eng
 object_011,,,1945-6-19,,,,,,multiple,,
 object_012,object_011,1945-6-19 (1).jpg,,,,,,,image/jpeg,,eng
 object_013,object_011,1945-6-19 (2).jpg,,,,,,,image/jpeg,,eng
