@@ -14,7 +14,7 @@ object_011,,,,1945-6-19,jbertsch,1945-6-19,,,,multiple,,
 object_012,object_011,1945-6-19 (1).jpg,1945-6-19,1945-6-19 (1),jbertsch,,,,,image/jpeg,,eng
 object_013,object_011,1945-6-19 (2).jpg,,1945-6-19 (2),jbertsch,,,,,image/jpeg,,eng
 object_014,object_011,1945-6-19 (3).jpg,,1945-6-19 (3),jbertsch,,,,,image/jpeg,,eng
-object_015,,,1945-6-23,1945-6-23,jbertsch,1945-6-23,,,,multiple,,
+object_015,,,1945-6-23,1945-6-23,jbertsch,1945-6-23,,,,compound_object,,
 object_016,object_015,1945-6-23 (1).jpg,,,jbertsch,,,,,image/jpeg,,eng
 object_017,object_015,1945-6-23 (2).jpg,,,jbertsch,,,,,image/jpeg,,eng
 object_018,object_015,1945-6-23 (3).jpg,,,jbertsch,,,,,image/jpeg,,eng
@@ -57,3 +57,4 @@ object_054,object_050,1945-9-13 (1).jpg,,,jbertsch,,,,,image/jpeg,,
 object_055,,,1945-9-14,1945-9-14,jbertsch,1945-9-14,,,,multiple,,
 object_056,object_055,1945-9-14 (1).jpg,,,jbertsch,,,,,image/jpeg,,
 object_057,object_055,1945-9-14 (2).jpg,,,jbertsch,,,,,image/jpeg,,
+
