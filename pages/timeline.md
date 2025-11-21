@@ -1,9 +1,9 @@
 ---
 title: Timeline
-layout: timeline
+layout: page-full-width
 permalink: /timeline.html
-year-navigation: 1900;1905;1910;1915;1920
+year-navigation:
 # a timeline visualization will be added below the content in this file
 ---
 
-## Collection Timeline
+{% include feature/timelinejs.html %}
