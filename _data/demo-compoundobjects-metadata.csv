@@ -1,60 +1,59 @@
-objectid,parentid,filename,title,creator,date,description,subject,type,format,,language
-object_001,,,1945-6-12,jbertsch,1945-6-12,,,,multiple,,
-object_002,object_001,1945-6-12 (1).jpg,1945-6-12 (1),jbertsch,,,,,image/jpeg,,eng
-object_003,object_001,1945-6-12 (2).jpg,1945-6-12 (2),jbertsch,,,,,image/jpeg,,eng
-object_004,object_001,1945-6-12 (3).jpg,1945-6-12 (3),jbertsch,,,,,image/jpeg,,
-object_005,,,1945-6-6,jbertsch,,,,,multiple,,
-object_006,object_005,1945-6-6 (1).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_007,object_005,1945-6-6 (2).jpg,,jbertsch,,,,,image/jpeg,,eng
-,,,1945-6-13,jbertsch,1945-6-13,,,,mulitple,,
-object_008,object_005,1945-6-13 (1).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_009,object_005,1945-6-13 (2).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_010,object_005,1945-6-13 (3).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_011,,,1945-6-19,jbertsch,1945-6-19,,,,multiple,,
-object_012,object_011,1945-6-19 (1).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_013,object_011,1945-6-19 (2).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_014,object_011,1945-6-19 (3).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_015,,,1945-6-23,jbertsch,1945-6-23,,,,multiple,,
-object_016,object_015,1945-6-23 (1).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_017,object_015,1945-6-23 (2).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_018,object_015,1945-6-23 (3).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_019,object_015,1945-6-23 (4).jpg,,jbertsch,,,,,image/jpeg,,
-object_020,object_015,1945-6-23 (5).jpg,,jbertsch,,,,,image/jpeg,,
-object_021,object_015,1945-6-23 (6).jpg,,jbertsch,,,,,image/jpeg,,
-object_022,,,1945-7-3,jbertsch,1945-7-3,,,,multiple,,
-object_023,object_022,1945-7-3 (1).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_024,object_022,1945-7-3 (2).jpg,,jbertsch,,,,,image/jpeg,,
-object_025,object_022,1945-7-3 (3).jpg,,jbertsch,,,,,image/jpeg,,
-object_026,object_022,1945-7-3 (4).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_027,object_022,1945-7-3 (5).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_028,object_022,1945-7-3 (6).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_029,,,1945-7-19 ,jbertsch,1945-7-19,,,,multiple,,
-object_030,object_029,1945-7-19 (1).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_031,object_029,1945-7-19 (2).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_032,object_029,1945-7-19 (3).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_033,object_029,1945-7-19 (4).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_034,object_029,1945-7-19 (5).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_035,,,1945-7-20,jbertsch,1945-7-20,,,,multiple,,
-object_036,object_035,1945-7-20 (1).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_037,object_035,1945-7-20 (2).jpg,,jbertsch,,,,,image/jpeg,,eng
-object_038,object_035,1945-7-20 (3).jpg,,jbertsch,,,,,image/jpeg,,
-object_039,object_035,1945-7-20 (4).jpg,,jbertsch,,,,,image/jpeg,,
-object_040,,,1945-7-23,jbertsch,1945-7-23,,,,multiple,,
-object_041,object_040,1945-7-23 (1).jpg,,jbertsch,,,,,image/jpeg,,
-object_042,object_040,1945-7-23 (2).jpg,,jbertsch,,,,,image/jpeg,,
-object_043,,1945-8-8.jpg,"August 8, 1945",jbertsch,08/08/1945,,,,image/jpeg,,
-object_044,,,1945-9-4,jbertsch,1945-9-4,,,,multiple,,
-object_045,object_044,1945-9-4 (1).jpg,,jbertsch,,,,,image/jpeg,,
-object_046,object_044,1945-9-4 (2).jpg,,jbertsch,,,,,image/jpeg,,
-object_047,object_044,1945-9-4 (3).jpg,,jbertsch,,,,,image/jpeg,,
-object_048,object_044,1945-9-4 (4).jpg,,jbertsch,,,,,image/jpeg,,
-object_049,object_044,1945-9-4 (5).jpg,,jbertsch,,,,,image/jpeg,,
-object_050,,,1945-9-12 ,jbertsch,1945-9-12,,,,multiple,,
-object_051,object_050,1945-9-12 (1).jpg,,jbertsch,,,,,image/jpeg,,
-object_052,object_050,1945-9-12 (2).jpg,,jbertsch,,,,,image/jpeg,,
-object_053,object_050,1945-9-12 (3).jpg,,jbertsch,,,,,image/jpeg,,
-object_054,object_050,1945-9-13 (1).jpg,,jbertsch,,,,,image/jpeg,,
-object_055,,,1945-9-14,jbertsch,1945-9-14,,,,multiple,,
-object_056,object_055,1945-9-14 (1).jpg,,jbertsch,,,,,image/jpeg,,
-object_057,object_055,1945-9-14 (2).jpg,,jbertsch,,,,,image/jpeg,,
-
+objectid,parentid,filename,headline,title,creator,date,description,subject,type,format,,language
+object_001,,,,1945-6-12,jbertsch,1945-6-12,,,,multiple,,
+object_002,object_001,1945-6-12 (1).jpg,,1945-6-12 (1),jbertsch,,,,,image/jpeg,,eng
+object_003,object_001,1945-6-12 (2).jpg,,1945-6-12 (2),jbertsch,,,,,image/jpeg,,eng
+object_004,object_001,1945-6-12 (3).jpg,,1945-6-12 (3),jbertsch,,,,,image/jpeg,,
+object_005,,,,1945-6-6,jbertsch,1945-6-6,,,,multiple,,
+object_006,object_005,1945-6-6 (1).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_007,object_005,1945-6-6 (2).jpg,,,jbertsch,,,,,image/jpeg,,eng
+,,,,1945-6-13,jbertsch,1945-6-13,,,,mulitple,,
+object_008,object_005,1945-6-13 (1).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_009,object_005,1945-6-13 (2).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_010,object_005,1945-6-13 (3).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_011,,,,1945-6-19,jbertsch,1945-6-19,,,,multiple,,
+object_012,object_011,1945-6-19 (1).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_013,object_011,1945-6-19 (2).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_014,object_011,1945-6-19 (3).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_015,,,,1945-6-23,jbertsch,1945-6-23,,,,multiple,,
+object_016,object_015,1945-6-23 (1).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_017,object_015,1945-6-23 (2).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_018,object_015,1945-6-23 (3).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_019,object_015,1945-6-23 (4).jpg,,,jbertsch,,,,,image/jpeg,,
+object_020,object_015,1945-6-23 (5).jpg,,,jbertsch,,,,,image/jpeg,,
+object_021,object_015,1945-6-23 (6).jpg,,,jbertsch,,,,,image/jpeg,,
+object_022,,,,1945-7-3,jbertsch,1945-7-3,,,,multiple,,
+object_023,object_022,1945-7-3 (1).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_024,object_022,1945-7-3 (2).jpg,,,jbertsch,,,,,image/jpeg,,
+object_025,object_022,1945-7-3 (3).jpg,,,jbertsch,,,,,image/jpeg,,
+object_026,object_022,1945-7-3 (4).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_027,object_022,1945-7-3 (5).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_028,object_022,1945-7-3 (6).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_029,,,,1945-7-19 ,jbertsch,1945-7-19,,,,multiple,,
+object_030,object_029,1945-7-19 (1).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_031,object_029,1945-7-19 (2).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_032,object_029,1945-7-19 (3).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_033,object_029,1945-7-19 (4).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_034,object_029,1945-7-19 (5).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_035,,,,1945-7-20,jbertsch,1945-7-20,,,,multiple,,
+object_036,object_035,1945-7-20 (1).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_037,object_035,1945-7-20 (2).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_038,object_035,1945-7-20 (3).jpg,,,jbertsch,,,,,image/jpeg,,
+object_039,object_035,1945-7-20 (4).jpg,,,jbertsch,,,,,image/jpeg,,
+object_040,,,,1945-7-23,jbertsch,1945-7-23,,,,multiple,,
+object_041,object_040,1945-7-23 (1).jpg,,,jbertsch,,,,,image/jpeg,,
+object_042,object_040,1945-7-23 (2).jpg,,,jbertsch,,,,,image/jpeg,,
+object_043,,1945-8-8.jpg,"August 8, 1945","August 8, 1945",jbertsch,1945-8-8,,,,image/jpeg,,
+object_044,,,,1945-9-4,jbertsch,1945-9-4,,,,multiple,,
+object_045,object_044,1945-9-4 (1).jpg,,,jbertsch,,,,,image/jpeg,,
+object_046,object_044,1945-9-4 (2).jpg,,,jbertsch,,,,,image/jpeg,,
+object_047,object_044,1945-9-4 (3).jpg,,,jbertsch,,,,,image/jpeg,,
+object_048,object_044,1945-9-4 (4).jpg,,,jbertsch,,,,,image/jpeg,,
+object_049,object_044,1945-9-4 (5).jpg,,,jbertsch,,,,,image/jpeg,,
+object_050,,,,1945-9-12 ,jbertsch,1945-9-12,,,,multiple,,
+object_051,object_050,1945-9-12 (1).jpg,,,jbertsch,,,,,image/jpeg,,
+object_052,object_050,1945-9-12 (2).jpg,,,jbertsch,,,,,image/jpeg,,
+object_053,object_050,1945-9-12 (3).jpg,,,jbertsch,,,,,image/jpeg,,
+object_054,object_050,1945-9-13 (1).jpg,,,jbertsch,,,,,image/jpeg,,
+object_055,,,,1945-9-14,jbertsch,1945-9-14,,,,multiple,,
+object_056,object_055,1945-9-14 (1).jpg,,,jbertsch,,,,,image/jpeg,,
+object_057,object_055,1945-9-14 (2).jpg,,,jbertsch,,,,,image/jpeg,,
