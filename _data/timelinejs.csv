@@ -1,17 +1,17 @@
 objectid,parentid,filename,headline,title,creator,date,description,subject,type,format,,language
-object_001,,,1945-6-12,1945-6-12,jbertsch,1945-6-12,,,,multiple,,
-object_002,object_001,1945-6-12 (1).jpg,,1945-6-12 (1),jbertsch,,,,,image/jpeg,,eng
+object_001,,,,1945-6-12,jbertsch,1945-6-12,,,,multiple,,
+object_002,object_001,1945-6-12 (1).jpg,1945-6-12,1945-6-12 (1),jbertsch,,,,,image/jpeg,,eng
 object_003,object_001,1945-6-12 (2).jpg,,1945-6-12 (2),jbertsch,,,,,image/jpeg,,eng
 object_004,object_001,1945-6-12 (3).jpg,,1945-6-12 (3),jbertsch,,,,,image/jpeg,,
-object_005,,,1945-6-6,1945-6-6,jbertsch,1945-6-6,,,,multiple,,
+object_005,,,,1945-6-6,jbertsch,1945-6-6,,,,multiple,,
 object_006,object_005,1945-6-6 (1).jpg,,,jbertsch,,,,,image/jpeg,,eng
 object_007,object_005,1945-6-6 (2).jpg,,,jbertsch,,,,,image/jpeg,,eng
-,,,,1945-6-13,jbertsch,1945-6-13,,,,mulitple,,
-object_008,object_005,1945-6-13 (1).jpg,1945-6-13,,jbertsch,,,,,image/jpeg,,eng
+,,,1945-6-13,1945-6-13,jbertsch,1945-6-13,,,,mulitple,,
+object_008,object_005,1945-6-13 (1).jpg,1945-6-13,1945-6-13 (1),jbertsch,,,,,image/jpeg,,eng
 object_009,object_005,1945-6-13 (2).jpg,,,jbertsch,,,,,image/jpeg,,eng
 object_010,object_005,1945-6-13 (3).jpg,,,jbertsch,,,,,image/jpeg,,eng
-object_011,,,1945-6-19,1945-6-19,jbertsch,1945-6-19,,,,multiple,,
-object_012,object_011,1945-6-19 (1).jpg,,,jbertsch,,,,,image/jpeg,,eng
+object_011,,,,1945-6-19,jbertsch,1945-6-19,,,,multiple,,
+object_012,object_011,1945-6-19 (1).jpg,1945-6-19,1945-6-19 (1),jbertsch,,,,,image/jpeg,,eng
 object_013,object_011,1945-6-19 (2).jpg,,,jbertsch,,,,,image/jpeg,,eng
 object_014,object_011,1945-6-19 (3).jpg,,,jbertsch,,,,,image/jpeg,,eng
 object_015,,,1945-6-23,1945-6-23,jbertsch,1945-6-23,,,,multiple,,
@@ -56,5 +56,4 @@ object_053,object_050,1945-9-12 (3).jpg,,,jbertsch,,,,,image/jpeg,,
 object_054,object_050,1945-9-13 (1).jpg,,,jbertsch,,,,,image/jpeg,,
 object_055,,,1945-9-14,1945-9-14,jbertsch,1945-9-14,,,,multiple,,
 object_056,object_055,1945-9-14 (1).jpg,,,jbertsch,,,,,image/jpeg,,
-
 object_057,object_055,1945-9-14 (2).jpg,,,jbertsch,,,,,image/jpeg,,
