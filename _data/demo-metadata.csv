@@ -1,7 +1,7 @@
 objectid,parentid,filename,title,creator,date,description,subject,type,format,,language
-demo_001,,6-6 (1).tiff,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910,,,,Multiple,,eng
-demo_002,6-6 (1).tiff,6-6 (2).tiff,"Spokane County Court House, Spokane, Washington",Spokane Post Card Co.,1912-09-08,,,,application/pdf,,eng
-demo_003,,demo_003.mp3,Good News – Power (Radio Episode Excerpt),"Robinson, Frank B.",1947,,,,audio/mp3,,eng
+demo_001,,7-19-1.jpg,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910,,,,multiple,,eng
+demo_002,7-19-1.jpg,7-19-2.jpg,"Spokane County Court House, Spokane, Washington",Spokane Post Card Co.,1912-09-08,,,,multiple,,eng
+demo_003,7-19-1.jpg,7-19-3.jpg,Good News – Power (Radio Episode Excerpt),"Robinson, Frank B.",1947,,,,multiple,,eng
 demo_004,,,"University of Idaho vs. University of Southern California (Football), 10/30/1925",Vandal Athletics,1925-10-30,,,,video/mp4,,eng
 demo_005,,,Interview with K. Silem Mohammad,"Becker, Devin",2014-06-16,,,,video/mp4,,eng
 demo_006,,https://www.lib.uidaho.edu/collectionbuilder/demo-objects/demo_006.jpg,Ford pumper used for slash burning control,"Thompson, J. B.",1932-09-01,,,,image/jpeg,,eng
